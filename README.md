@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Onur Sönmez </h1>
+<h1 align="center">Merhaba Kodlayıcı 👋, Ben Onur Sönmez </h1>
 <h2 align="center">Kariyer hedefi olarak bugün dünden daha iyi olmayı, yaşam felsefesi  olarak da lokomotif bir karektere  sahip olmayı hedef edinen genç bir yazılım geliştiriciyim</h2>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
@@ -9,15 +9,14 @@
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **onursonmez3437@gmail.com** adresini kullanabilirsiniz. 
-- <br></br></br>
+- </br></br>
 
-<p align="center">
-  <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kullaniciAdi?label=Followers&style=social"> •   
+<p align="center"> 
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="[https://img.shields.io/github/followers/kullaniciAdi?label=Followers&style=social](https://github.com/onursonmez37)"> •   
   <img src="https://img.shields.io/github/stars/kullaniciAdi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<h1 align="center"> 💻Berkcan Gümüşışık</h1>
+<h1 align="center"> 💻Onur Sönmez</h1>
 <p align="center">
 <a href="https://github.com/kullaniciAdi">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kullaniciAdi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 

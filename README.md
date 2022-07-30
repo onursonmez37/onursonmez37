@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben Onur Sönmez </h1>
-<h1 align="center">Kariyer hedefi olarak bugün dünden daha iyi olmayı ve 
+<h2 align="center">Kariyer hedefi olarak bugün dünden daha iyi olmayı ve 
 yaşam felsefesi  olarak da lokomotif bir karektere  sahip olmayı hedef 
-edinen genç yazılım geliştiriciyim</h1>
+edinen genç yazılım geliştiriciyim</h2>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 

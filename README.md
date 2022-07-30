@@ -12,7 +12,7 @@
 - </br></br>
 
 <p align="center"> 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="[https://img.shields.io/github/followers/kullaniciAdi?label=Followers&style=social](https://github.com/onursonmez37)"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://github.com/onursonmez37"> •   
   <img src="https://img.shields.io/github/stars/kullaniciAdi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 

@@ -13,7 +13,7 @@
 
 <p align="center"> 
 </p>
-
+<br></br><br></br><br></br>
 <h1 align="center"> 💻 HAKKIMDA 💻 </h1>
 <br></br>
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>

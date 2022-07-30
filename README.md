@@ -15,18 +15,10 @@
 </p>
 
 <h1 align="center"> 💻Onur Sönmez</h1>
-<p align="center">
-<a href="https://github.com/onursonmez37">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=kullaniciAdi&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciAdi&layout=compact&langs_count=16&theme=react"/>
- </div>
-</p>
-
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/berkcan-gumusisik/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
-<a href="https://instagram.com/berkcangumusisik" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/onur-sönmez-4a05781a4/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>
+<a href="https://instagram.com/onursonmez37/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"  height="30" width="30" /></a>
 <a href="https://medium.com/@gumusisikberkcan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" height="30" width="40" />
 </a>
 </p>

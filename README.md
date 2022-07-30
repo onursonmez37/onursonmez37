@@ -14,7 +14,7 @@
 <p align="center"> 
 </p>
 
-<h1 align="center"> 💻Onur Sönmez</h1>
+<h1 align="center"> 💻 HAKKIMDA 💻 </h1>
  <h2 align="center">🤝Sosyal Medya Hesaplarım </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/onur-sönmez-4a05781a4/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" height="30" width="30" /></a>

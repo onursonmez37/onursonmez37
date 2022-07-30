@@ -9,7 +9,7 @@
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **onursonmez3437@gmail.com** adresini kullanabilirsiniz. 
-- <br>
+- <br></br></br>
 
 <p align="center">
   <img src= "https://gpvc.arturio.dev/berkcangumusisik" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  

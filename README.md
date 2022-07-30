@@ -1,7 +1,4 @@
 <h1 align="center">Merhaba Kodlayıcı 👋, Ben Onur Sönmez </h1>
-<h1 align="center">Merhaba Kodlayıcı <a target="_blanka"><img align="left" height="100" width="100" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif"></a>, Ben Onur Sönmez </h1>
-
-
 <h2 align="center">Kariyer hedefi olarak bugün dünden daha iyi olmayı, yaşam felsefesi  olarak da lokomotif bir karektere  sahip olmayı hedef edinen genç bir yazılım geliştiriciyim</h2>
  <a target="_blanka"><img align="left" height="350" width="420" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif"></a>
 <br/>

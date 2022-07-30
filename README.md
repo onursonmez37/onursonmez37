@@ -9,7 +9,7 @@
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
 - 📫 Bana ulaşmak isterseniz **onursonmez3437@gmail.com** adresini kullanabilirsiniz. 
-- </br></br>
+
 
 <p align="center"> 
 </p>

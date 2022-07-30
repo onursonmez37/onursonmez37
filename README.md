@@ -27,11 +27,6 @@
   
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/flutterlogo_Ni49mu8.png"></code>
- <code><img height="40" width="40" src="https://i.pinimg.com/originals/9b/fc/ab/9bfcabbfd10b16693e622045fe6b812d.png"></code>
 </p>
 
 <h2 align="center">⚡ Database</h2>

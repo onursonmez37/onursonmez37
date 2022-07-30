@@ -1,13 +1,16 @@
-<h1 align="center">Merhaba 👋, Ben Berkcan Gümüşışık </h1>
+<h1 align="center">Merhaba 👋, Ben Onur Sönmez </h1>
+<h1 align="center">Kariyer hedefi olarak bugün dünden daha iyi olmayı ve 
+yaşam felsefesi  olarak da lokomotif bir karektere  sahip olmayı hedef 
+edinen genç yazılım geliştiriciyim</h1>
  <a target="_blank"><img align="left" height="400" width="400" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 
 ### Ben Kimim
-- :computer:Gazi Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitimi 4. sınıf öğrencisiyim.  
-- :computer:YetGen lideriyim. 
+- :computer:BŞEÜ Bilgisayar Programcılığı mezunu ve BARÜ 3 . sınıf öğrencisiyim.  
+- :computer:Java ve C# da orta düzey bilgi birikimine sahibim. 
 - :computer:Full Stack Developer olmak için çabalıyorum. 
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz **gumusisikberkcan@gmail.com** adresini kullanabilirsiniz. 
+- 📫 Bana ulaşmak isterseniz **onursonmez3437@gmail.com** adresini kullanabilirsiniz. 
 
 ***:computer:	DON'T REPEAT YOURSELF(KENDİNİ TEKRAR ETME)***
 <br>

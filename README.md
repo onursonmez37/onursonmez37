@@ -56,4 +56,3 @@
   
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png">
 <code><img height="40" width="40" src="https://github.com/onursonmez37/PatikaJava101/blob/main/Maa%C5%9FHesaplama/png/adobe-fireworks-cs6-logo-43F54335BF-seeklogo.com.png"></code> 
-</p>
